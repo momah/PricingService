@@ -48,8 +48,8 @@ Las clases `model` representan las entidades principales del dominio.
 1. Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/your_username/your_project.git
-    cd your_project
+    https://github.com/momah/PricingService.git
+    cd PricingService
     ```
 
 2. Compilar el proyecto:
@@ -72,7 +72,7 @@ La aplicación se iniciará en `http://localhost:8080`.
 - `GET /api/price?applicationDate={date}&productId={productId}&brandId={brandId}`: Obtiene un precio específico según la fecha de aplicación, el ID de producto y el ID de marca.
 
 
-#### Ejemplo de Uso
+#### Ejemplos de Uso
 
 ```bash
 curl -X GET http://localhost:8080/api
