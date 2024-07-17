@@ -41,7 +41,7 @@ Las clases `model` representan las entidades principales del dominio.
 ### Prerrequisitos
 
 - JDK 17 
-- Maven 4.0.0+ (para compilación y gestión de dependencias)
+- Maven 3.9.8 (para compilación y gestión de dependencias)
 
 ### Instalación
 
